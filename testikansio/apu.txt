@@ -1,0 +1,7 @@
+ etusivun tiedot muutettavissa (aika, paikka, kesto)
+imottautuminen ja sen hallinta
+määrä
+aluekartta + paikanvaraus
+
+turnauksen hallinta, nimet, palkinnot, koko, aika, peli
+turnaukseeen imottautuminen
